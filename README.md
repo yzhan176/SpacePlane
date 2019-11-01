@@ -15,7 +15,7 @@
   5. Three lives of the plane per game
   
   # Control the plane
-                    Button
+   Action           Button
    Move left        left
    Move right       right
    shoot bullets    spacebar
