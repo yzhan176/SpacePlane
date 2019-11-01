@@ -1,6 +1,6 @@
 # SpacePlane
- The game is called SpacePlane which is using Pygame and python.
- The plane can shoot bullets to destroy the mateorite to survive, otherwise it will loose the blood.
+ 1. The game is called SpacePlane which is using Pygame and python.
+ 2. The plane can shoot bullets to destroy the mateorite to survive, otherwise it will loose the blood.
 
 # Game Feature
   1. Show the blood volume of the space plane
