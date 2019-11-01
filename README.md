@@ -6,8 +6,8 @@
   1. Show the blood volume of the space plane
   2. Show the score your space plane get so far
   3. Show the materials such like
-        shield: increase the blood volume of your space plane
-        bolt: increase the shooting capacity of the plane which can shoot two to three bullets instead of one at a time
+        1. shield: increase the blood volume of your space plane
+        2. bolt: increase the shooting capacity of the plane which can shoot two to three bullets instead of one at a time
   4. Customize sounds and animation for things such like
         meteorite explosion
         bullet shoots
