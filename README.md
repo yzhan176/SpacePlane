@@ -15,8 +15,8 @@
   5. Three lives of the plane per game
   
   # Control the plane
-  Action           Button
-  Move left        left
-  Move right       right
-  shoot bullets    spacebar
-  Quit game        Esc
+     Action           Button
+  1. Move left        left
+  2. Move right       right
+  3. shoot bullets    spacebar
+  4. Quit game        Esc
