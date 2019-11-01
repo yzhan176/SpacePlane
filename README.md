@@ -16,7 +16,7 @@
   
   # Control the plane
      Action           Button
-  1. Move left        left
-  2. Move right       right
-  3. shoot bullets    spacebar
-  4. Quit game        Esc
+  1. Move left           left
+  2. Move right          right
+  3. shoot bullets       spacebar
+  4. Quit game           Esc
