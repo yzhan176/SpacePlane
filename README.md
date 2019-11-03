@@ -1,6 +1,6 @@
 # SpacePlane
  1. The game is called SpacePlane which is using Pygame and python.
- 2. The plane can shoot bullets to destroy the mateorite to survive, otherwise it will loose the blood.
+ 2. The plane can shoot bullets to destroy the meteorite to survive, otherwise it will loose the blood.
 
 # Game Feature
   1. Show the blood volume of the space plane
@@ -9,9 +9,9 @@
         1. shield: increase the blood volume of your space plane
         2. bolt: increase the shooting capacity of the plane which can shoot two to three bullets instead of one at a time
   4. Customize sounds and animation for things such like
-        meteorite explosion
-        bullet shoots
-        plane explosion
+        1. meteorite explosion
+        2. bullet shoots
+        3. plane explosion
   5. Three lives of the plane per game
   
   # Control the plane
