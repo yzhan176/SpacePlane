@@ -25,7 +25,7 @@
   3. In this folder, the document called shootPlane.py is the main programming code
   4. In this folder, the document called test.py is the test code which can print the remaining lives of the plane.
   
-  The terminal can get the result:
+  # The terminal can get the result:
     1. pygame 1.9.6
     2. Hello from the pygame community. https://www.pygame.org/contribute.html
     3. Enter the next page
