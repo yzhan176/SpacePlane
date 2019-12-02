@@ -36,8 +36,6 @@
      8. The live of plane is 0, so game over
     
 # How to run the code:
-   1. Create a virtual environment by running mkvirtualenv plane_env. DO NOT BUILD YOUR CODE TO YOUR SYSTEM'S PYTHON.
-   2. Activate your new environment by running workon plane_env. If you use PyCharm, you should also change the interpreter to this virtual environment.
-   3. In order to run the code, you should install pygame in your environment. Simply type "pip3 install pygame".
-   4. Then, type "python3 shootPlane.py" to run the game
-   5. Finally type "python3 test.py" to run the test code to get the above result in terminal
+   1. In order to run the code, you should install pygame in your environment. Simply type "pip3 install pygame".
+   2. Then, type "python3 shootPlane.py" to run the game
+   3. Finally type "python3 test.py" to run the test code to get the above result in terminal
