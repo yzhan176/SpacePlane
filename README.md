@@ -25,15 +25,15 @@
   3. In this folder, the document called shootPlane.py is the main programming code
   4. In this folder, the document called test.py is the test code which can print the remaining lives of the plane.
   
-  # The terminal can get the result:
-    1. pygame 1.9.6
-    2. Hello from the pygame community. https://www.pygame.org/contribute.html
-    3. Enter the next page
-    4. The initial lives of the plane are  3
-    5. The plane is destroyed, the remaining lives are  2
-    6. The plane is destroyed, the remaining lives are  1
-    7. The plane is destroyed, the remaining lives are  0
-    8. The live of plane is 0, so game over
+  5. After running the test code, the terminal can get the result:
+     1. pygame 1.9.6
+     2. Hello from the pygame community. https://www.pygame.org/contribute.html
+     3. Enter the next page
+     4. The initial lives of the plane are  3
+     5. The plane is destroyed, the remaining lives are  2
+     6. The plane is destroyed, the remaining lives are  1
+     7. The plane is destroyed, the remaining lives are  0
+     8. The live of plane is 0, so game over
     
 # How to run the code:
    1. Create a virtual environment by running mkvirtualenv plane_env. DO NOT BUILD YOUR CODE TO YOUR SYSTEM'S PYTHON.
