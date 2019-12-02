@@ -36,6 +36,6 @@
      8. The live of plane is 0, so game over
     
 # How to run the code:
-   1. In order to run the code, you should install pygame in your environment. Simply type "pip3 install pygame".
+   1. In order to run the code, you should install pygame in your environment. Simply type "pip install pygame".
    2. Then, type "python3 shootPlane.py" to run the game
    3. Finally type "python3 test.py" to run the test code to get the above result in terminal
